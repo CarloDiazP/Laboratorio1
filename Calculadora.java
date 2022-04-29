@@ -4,7 +4,7 @@ public class Calculadora {
 	// Funcion div(/)
 	// Funcion mul(*)
 	// Funcion mod(%)
-	public static void mod(int a, int b) {
+	public static int mod(int a, int b) {
 
 	}
 }
