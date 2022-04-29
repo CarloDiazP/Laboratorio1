@@ -5,6 +5,6 @@ public class Calculadora {
 	// Funcion mul(*)
 	// Funcion mod(%)
 	public static int mod(int a, int b) {
-
+		return a % b;
 	}
 }
