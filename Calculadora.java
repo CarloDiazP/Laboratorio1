@@ -1,7 +1,10 @@
-public class Calculadora{
-	//Funcion add(+)
-	//Funcion sub(-)
-	//Funcion div(/)
-	//Funcion mul(*)
-	//Funcion mod(%)
+public class Calculadora {
+	// Funcion add(+)
+	// Funcion sub(-)
+	// Funcion div(/)
+	// Funcion mul(*)
+	// Funcion mod(%)
+	public static void mod(int a, int b) {
+
+	}
 }
