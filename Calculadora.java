@@ -1,7 +1,7 @@
 public class Calculadora{
 	//Funcion add(+)
 	//Funcion sub(-)
-	public int sub(int a, int b){
+	public static int sub(int a, int b){
 		return a - b;
 	}
 	//Funcion div(/)
