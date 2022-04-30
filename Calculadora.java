@@ -9,6 +9,9 @@ public class Calculadora{
 		return a / b;
 	}
 	//Funcion mul(*)
+	public static int mul(int a, int b){
+		return a*b;
+	}
 	//Funcion mod(%)
   public static int mod(int a, int b) {
 		return a % b;
